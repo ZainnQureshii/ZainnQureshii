@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZainnQureshii&theme=dark&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZainnQureshii&theme=dark&card_width=1000)](https://git.io/streak-stats)
 <!--
 ### Hi there 👋
 **ZainnQureshii/ZainnQureshii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
