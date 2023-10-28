@@ -11,7 +11,7 @@
 <p></p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainnQureshii)](https://github.com/ZainnQureshii/github-readme-stats)  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ZainnQureshii&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ZainnQureshii&show_icons=true&locale=en&layout=compact)
 
 <!--
 ### Hi there 👋
