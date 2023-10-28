@@ -1,8 +1,15 @@
 <p><img src="https://myreadme.vercel.app/api/embed/ZainnQureshii?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZainnQureshii&theme=dark&card_width=1000)](https://git.io/streak-stats)
 <br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZainnQureshii&theme=dark&card_width=1000)](https://git.io/streak-stats)
+
+<br />
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ZainnQureshii&show_icons=true&locale=en&layout=compact)
+
+<br />
 <br />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainnQureshii)](https://github.com/ZainnQureshii/github-readme-stats)  -->
 
