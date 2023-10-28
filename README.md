@@ -6,12 +6,12 @@
 
 <p></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ZainnQureshii&show_icons=true&locale=en&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZainnQureshii)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p></p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainnQureshii)](https://github.com/ZainnQureshii/github-readme-stats)  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZainnQureshii)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ZainnQureshii&show_icons=true&locale=en&layout=compact)
 
 <!--
 ### Hi there 👋
