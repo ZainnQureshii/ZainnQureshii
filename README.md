@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainnQureshii)](https://github.com/ZainnQureshii/github-readme-stats)
+[![Zains's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainnQureshii)](https://github.com/ZainnQureshii/github-readme-stats)
+
+![Zains's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainnQureshii&hide=contribs,prs)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZainnQureshii)](https://github.com/ryo-ma/github-profile-trophy)
 
