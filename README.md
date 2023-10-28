@@ -1,10 +1,11 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZainnQureshii&theme=dark&card_width=1000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainnQureshii)](https://github.com/ZainnQureshii/github-readme-stats)
 
 [![Zains's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainnQureshii)](https://github.com/ZainnQureshii/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZainnQureshii)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZainnQureshii&theme=dark&card_width=1000)](https://git.io/streak-stats)
 <!--
 ### Hi there 👋
 **ZainnQureshii/ZainnQureshii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
