@@ -15,7 +15,9 @@
 
 <p></p>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZainnQureshii)](https://github.com/ZainnQureshii)
+
 <!--
 ### Hi there 👋
 **ZainnQureshii/ZainnQureshii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
