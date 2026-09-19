@@ -1,11 +1,4 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" width="100%" alt="Zain Qureshi. Agentic AI engineer. Engineering since 2019.">
-  </picture>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2800&amp;pause=1200&amp;color=38CABB&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=45&amp;lines=Software+engineering+since+2019.;Angular+%2B+TypeScript.+Claude+%2B+Codex.;Humans+name+the+barrier.+AI+builds+below+it." width="100%" alt="Software engineering since 2019. Angular and TypeScript. Claude and Codex.">
 </p>
 
