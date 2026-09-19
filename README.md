@@ -1,38 +1,124 @@
-![👋 Hi, my name is Zain Qureshi](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Zain Qureshi
-      </h1>
-    </summary>
-  </ul>
-</div>
-
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://behance.net/zain_qureshi" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://bitbucket.org/zain_qureshi" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codepen.io/ZainQureshi" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ZainnQureshii" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/sabervz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/zainnqureshii" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
- **<h3 align="left">🚀 Passionate fullstack developer crafting powerful web experiences from front to back. Building scalable, user-friendly apps that turn complex ideas into smooth-running realities.</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻 Developing and managing an e-commerce platform using Angular in the Audio Video industry**
-- 🌱 I'm currently learning: **📚 Always exploring and learning about new technologies**
-- 💬 Ask me about: **💡 JavaScript, Angular, React, TypeScript, Node.js and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-
- **<h3 align="left">Skills</h3>**
-
-<p align="left"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="28" alt="Angular" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="28" alt="Vue" style="margin-right: 8px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="28" alt="React Native" style="margin-right: 8px"> <img src="https://img.shields.io/badge/HyperHTML-FF5722?logo=hyperhtml&logoColor=white" height="28" alt="HyperHTML" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Backbone.js-0075B1?logo=backbone-dot-js&logoColor=white" height="28" alt="Backbone.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 8px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 8px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="28" alt="Figma" style="margin-right: 8px"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="28" alt="IntelliJ IDEA" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Sublime_Text-FF9800?logo=sublime-text&logoColor=white" height="28" alt="Sublime Text" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="28" alt="Vim" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" height="28" alt="Adobe Photoshop" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" height="28" alt="Adobe Illustrator" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?logo=adobe-after-effects&logoColor=white" height="28" alt="Adobe After Effects" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white" height="28" alt="Adobe XD" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white" height="28" alt="Gatsby" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" height="28" alt="Nuxt.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="28" alt="GitHub Actions" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="28" alt="Supabase" style="margin-right: 8px"></p>
-
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zainnqureshii&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=zainnqureshii&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+<p align="center">
+  <img src="assets/arcade-banner.png" width="100%" alt="Zain Qureshi, Agentic AI Engineer. Two robot builders at a colourful pixel-art workstation in space.">
 </p>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainnqureshii&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2800&amp;pause=1200&amp;color=38CABB&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=45&amp;lines=Software+engineering+since+2019.;Angular+%2B+TypeScript.+Claude+%2B+Codex.;Humans+name+the+barrier.+AI+builds+below+it." width="100%" alt="Software engineering since 2019. Angular and TypeScript. Claude and Codex.">
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/zainnqureshii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="28" alt="LinkedIn"></a>
+  <a href="https://www.upwork.com/freelancers/zainnqureshii"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" height="28" alt="Upwork"></a>
+  <img src="https://komarev.com/ghpvc/?username=ZainnQureshii&amp;style=for-the-badge&amp;color=8759D5&amp;label=PROFILE+VIEWS" height="28" alt="Profile views">
+</p>
+
+<p align="center">
+  <img src="assets/sticker-typescript.svg" width="30%" alt="Angular and TypeScript sticker">
+  <img src="assets/sticker-agents.svg" width="30%" alt="Animated Claude and Codex robot sticker">
+  <img src="assets/sticker-ship.svg" width="30%" alt="Verify before believing sticker">
+</p>
+
+## Hey, I'm Zain 👋
+
+**Agentic AI engineer. Frontend roots. Engineering since 2019.**
+
+Mostly Angular and TypeScript, at the scale where a mistake costs somebody money. Agentic AI came later and sits on top of that experience. Anyone can prompt a model. Knowing which generated code is brittle before it runs is the part that came from the years before the models existed.
+
+<img src="assets/arcade-divider.svg" width="100%" alt="">
+
+## 🧰 The toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,nodejs,mongodb,supabase,firebase&amp;perline=8" width="440" alt="Angular, TypeScript, JavaScript, React, Node.js, MongoDB, Supabase and Firebase">
+</p>
+
+<table>
+<tr><th>Where</th><th>What I build with</th></tr>
+<tr><td><strong>🎨 Product</strong></td><td><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" height="28" alt="Angular"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" height="28" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-B69B00?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" height="28" alt="JavaScript"> <img src="https://img.shields.io/badge/NX-143055?style=for-the-badge&amp;logo=nx&amp;logoColor=white" height="28" alt="NX"> <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&amp;logo=reactivex&amp;logoColor=white" height="28" alt="RxJS"> <img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&amp;logo=react&amp;logoColor=white" height="28" alt="React"> <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&amp;logo=electron&amp;logoColor=white" height="28" alt="Electron"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" height="28" alt="HTML"> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" height="28" alt="CSS"></td></tr>
+<tr><td><strong>🤖 Agents</strong></td><td><img src="https://img.shields.io/badge/Claude%20Code-B85C38?style=for-the-badge&amp;logo=claude&amp;logoColor=white" height="28" alt="Claude Code"> <img src="https://img.shields.io/badge/Codex%20CLI-25283D?style=for-the-badge" height="28" alt="Codex CLI"> <img src="https://img.shields.io/badge/MCP-8759D5?style=for-the-badge" height="28" alt="MCP"> <img src="https://img.shields.io/badge/Copilot-5743AB?style=for-the-badge&amp;logo=githubcopilot&amp;logoColor=white" height="28" alt="Copilot"> <img src="https://img.shields.io/badge/Multi--agent%20orchestration-066D68?style=for-the-badge" height="28" alt="Multi-agent orchestration"> <img src="https://img.shields.io/badge/Model%20routing-90425F?style=for-the-badge" height="28" alt="Model routing"></td></tr>
+<tr><td><strong>🔎 Checks</strong></td><td><img src="https://img.shields.io/badge/Playwright-267F39?style=for-the-badge" height="28" alt="Playwright"> <img src="https://img.shields.io/badge/CDP-3465AE?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" height="28" alt="CDP"> <img src="https://img.shields.io/badge/Deterministic%20hooks-8B4AA5?style=for-the-badge" height="28" alt="Deterministic hooks"> <img src="https://img.shields.io/badge/Tracing-AD5B20?style=for-the-badge" height="28" alt="Tracing"> <img src="https://img.shields.io/badge/Circuit%20breakers-C53C62?style=for-the-badge" height="28" alt="Circuit breakers"></td></tr>
+<tr><td><strong>⚙️ Services</strong></td><td><img src="https://img.shields.io/badge/Node-43853D?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" height="28" alt="Node"> <img src="https://img.shields.io/badge/Express-25283D?style=for-the-badge&amp;logo=express&amp;logoColor=white" height="28" alt="Express"> <img src="https://img.shields.io/badge/Square-3E3E3E?style=for-the-badge&amp;logo=square&amp;logoColor=white" height="28" alt="Square"></td></tr>
+<tr><td><strong>🗃️ Data</strong></td><td><img src="https://img.shields.io/badge/MongoDB-287E41?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" height="28" alt="MongoDB"> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" height="28" alt="MySQL"> <img src="https://img.shields.io/badge/SQLite-075C8D?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" height="28" alt="SQLite"> <img src="https://img.shields.io/badge/Supabase-267E5D?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" height="28" alt="Supabase"> <img src="https://img.shields.io/badge/Firebase-B86A00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" height="28" alt="Firebase"></td></tr>
+</table>
+
+<details>
+<summary><strong>🎮 Open the toolbox: what those tools are doing</strong></summary>
+
+- **Product engineering:** interfaces that hold up under real traffic, real money and five years of other people's commits.
+- **Agent systems:** multi-agent workflows that do the work and stop where a human has to decide.
+- **Verification and runtime:** Playwright, Chrome DevTools Protocol (CDP), deterministic hooks, tracing and circuit breakers. Proving the thing works, and catching it when it does not.
+- **Services and data:** enough backend to own a feature end to end instead of handing it over half built.
+
+</details>
+
+## ⚡ The experience underneath
+
+| Where it got real | The work |
+| :--- | :--- |
+| ☁️ **Broadcom CloudSOC** | Frontend for a cloud access security broker, alongside the US team. |
+| 🅰️ **Angular 9 → 21** | Three companies. Six years of migrations. |
+| 💳 **Card + ACH payments** | Payment surfaces and deposit verification, where the bug report is a chargeback. |
+
+## 🤖 Two agents. Neither taken at its word.
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-B85C38?style=for-the-badge&amp;logo=claude&amp;logoColor=white" height="28" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Codex_CLI-25283D?style=for-the-badge" height="28" alt="Codex CLI">
+  <img src="https://img.shields.io/badge/Copilot-5743AB?style=for-the-badge&amp;logo=githubcopilot&amp;logoColor=white" height="28" alt="Copilot">
+</p>
+
+Claude and Codex as a pair, one planning and one building. Copilot as the gate before a push. Guardrails, tracing and recovery around all of it, because an agent that fails silently is worse than one that fails.
+
+> [!TIP]
+> Humans name the barrier. AI fills the implementation below it.
+
+<details>
+<summary><strong>🕹️ The build loop</strong></summary>
+
+1. **Name the barrier.**
+2. **Agents implement below it.**
+3. **Verify before believing.**
+4. **Ship something that runs without me.**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" width="340" alt="Animated characters working together to fix bugs">
+</p>
+
+</details>
+
+<img src="assets/arcade-divider.svg" width="100%" alt="">
+
+## 🐍 The contribution arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+  <img src="assets/snake-light.svg" width="100%" alt="Animated snake travelling through my GitHub contribution calendar">
+</picture>
+
+<details open>
+<summary><strong>🌃 A year of building, in 3D</strong></summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/calendar-dark.svg">
+  <img src="assets/calendar-light.svg" width="100%" alt="My GitHub contribution calendar rendered as a 3D city">
+</picture>
+
+</details>
+
+<details>
+<summary><strong>📊 Under the hood: activity metrics</strong></summary>
+
+<img src="assets/metrics.svg" width="100%" alt="GitHub activity metrics generated from my public profile">
+
+</details>
+
+<p align="center">
+  <a href="https://linkedin.com/in/zainnqureshii">LinkedIn</a> · <a href="https://www.upwork.com/freelancers/zainnqureshii">Upwork</a>
+</p>
+
+<details>
+<summary><sub>Visual credits</sub></summary>
+
+Original workstation illustration made for this profile with OpenAI image generation. Original animated stickers and divider. Badges by [Shields.io](https://shields.io), icons by [Skill Icons](https://github.com/tandpfun/skill-icons), typing by [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg), views by [Komarev](https://github.com/antonkomarev/github-profile-views-counter). Coding GIF from [Cool GIFs for GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub). Contribution visuals by [snk](https://github.com/Platane/snk), [GitHub Profile 3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib) and [Metrics](https://github.com/lowlighter/metrics).
+
+</details>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="150" viewBox="0 0 240 150" role="img" aria-labelledby="title">
+  <title id="title">Claude and Codex</title>
+  <style>
+    text { font-family: 'Trebuchet MS', Arial, sans-serif; font-weight: 800; }
+    .bot { animation: bob 2.8s ease-in-out infinite; } @keyframes bob { 50% { transform: translateY(5px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g class="bot">
+    <path d="M67 49V35Q67 23 81 23H166Q180 23 180 37V105Q180 122 163 122H78Q61 122 61 105V52Z" fill="#39ddce" stroke="#fff5db" stroke-width="10"/>
+    <rect x="73" y="42" width="96" height="57" rx="15" fill="#17152e"/>
+    <path d="M88 70q9-15 18 0m24 0q9-15 18 0" fill="none" stroke="#39ddce" stroke-width="5" stroke-linecap="round"/>
+    <path d="M113 82q8 8 16 0M120 22V9" fill="none" stroke="#ffcc4d" stroke-width="4"/>
+    <circle cx="120" cy="9" r="6" fill="#ffcc4d"/>
+    <path d="M49 60L29 45M187 68l22-20" stroke="#f98bc4" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <rect x="28" y="107" width="184" height="30" rx="8" fill="#fff5db" stroke="#17152e" stroke-width="3"/>
+  <text x="120" y="128" text-anchor="middle" font-size="18" fill="#17152e">Claude + Codex</text>
+</svg>
