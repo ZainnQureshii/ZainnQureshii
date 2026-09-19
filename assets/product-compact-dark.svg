@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="144" viewBox="0 0 360 144" role="img" aria-labelledby="title">
+  <title id="title">Angular, TypeScript, JavaScript, NX, RxJS, React, Electron, HTML, CSS</title>
+  <defs>
+    <style>
+      /* Hallmark: technical composition with a visible human judgment boundary. */
+      :root {
+      --ink: #edf2fa;
+      --muted: #b3c2d5;
+      --paper: #111e30;
+      --panel: #1a2b42;
+      --line: #53677f;
+      --accent: #e6a775;
+      --navy: #111e30;
+      --white: #edf2fa;
+      --pale: #b3c2d5;
+      --copper: #e6a775;
+        --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+        --font-display: Georgia, 'Times New Roman', serif;
+      }
+      text { font-family: var(--font-body); fill: var(--ink); }
+      .display { font-family: var(--font-display); }
+      .muted { fill: var(--muted); }
+      .accent { fill: var(--accent); }
+      .paper { fill: var(--paper); }
+      .panel { fill: var(--panel); }
+      .navy { fill: var(--navy); }
+      .white { fill: var(--white); }
+      .pale { fill: var(--pale); }
+      .copper { fill: var(--copper); }
+      .rule { fill: none; stroke: var(--line); stroke-width: 1; }
+      .signal { fill: none; stroke: var(--accent); stroke-width: 2; }
+      .bright { fill: none; stroke: var(--copper); stroke-width: 2; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="360" height="144" class="paper"/>
+  <rect x="0" y="0" width="4" height="144" class="accent"/>
+  <text x="20" y="37" font-size="28" font-weight="600">Angular</text>
+  <text x="161" y="37" font-size="28" font-weight="600">TypeScript</text>
+  <path d="M20 56H340" class="rule"/>
+  <text x="20" y="83" font-size="16" class="muted">JavaScript</text>
+  <text x="156" y="83" font-size="16" class="muted">NX</text>
+  <text x="216" y="83" font-size="16" class="muted">RxJS</text>
+  <text x="20" y="120" font-size="16" class="muted">React</text>
+  <text x="96" y="120" font-size="16" class="muted">Electron</text>
+  <text x="204" y="120" font-size="16" class="muted">HTML</text>
+  <text x="282" y="120" font-size="16" class="muted">CSS</text>
+</svg>

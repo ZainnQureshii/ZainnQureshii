@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="156" viewBox="0 0 360 156" role="img" aria-labelledby="title">
+  <title id="title">Playwright, Chrome DevTools Protocol, deterministic hooks, tracing, circuit breakers</title>
+  <defs>
+    <style>
+      /* Hallmark: technical composition with a visible human judgment boundary. */
+      :root {
+      --ink: #edf2fa;
+      --muted: #b3c2d5;
+      --paper: #111e30;
+      --panel: #1a2b42;
+      --line: #53677f;
+      --accent: #e6a775;
+      --navy: #111e30;
+      --white: #edf2fa;
+      --pale: #b3c2d5;
+      --copper: #e6a775;
+        --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+        --font-display: Georgia, 'Times New Roman', serif;
+      }
+      text { font-family: var(--font-body); fill: var(--ink); }
+      .display { font-family: var(--font-display); }
+      .muted { fill: var(--muted); }
+      .accent { fill: var(--accent); }
+      .paper { fill: var(--paper); }
+      .panel { fill: var(--panel); }
+      .navy { fill: var(--navy); }
+      .white { fill: var(--white); }
+      .pale { fill: var(--pale); }
+      .copper { fill: var(--copper); }
+      .rule { fill: none; stroke: var(--line); stroke-width: 1; }
+      .signal { fill: none; stroke: var(--accent); stroke-width: 2; }
+      .bright { fill: none; stroke: var(--copper); stroke-width: 2; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="360" height="156" class="paper"/>
+  <rect x="0" y="0" width="4" height="156" class="accent"/>
+  <text x="20" y="36" font-size="27" font-weight="600">Playwright</text>
+  <text x="20" y="62" font-size="16" class="muted">Chrome DevTools Protocol</text>
+  <path d="M20 80H340" class="rule"/>
+  <text x="20" y="108" font-size="17">deterministic hooks</text>
+  <text x="20" y="138" font-size="17" class="muted">tracing</text>
+  <text x="134" y="138" font-size="17" class="muted">circuit breakers</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="420" viewBox="0 0 360 420" role="img" aria-labelledby="title">
+  <title id="title">Zain Qureshi. Agentic AI Engineer. Software engineering underneath. Judgment at the boundary.</title>
+  <defs>
+    <style>
+      /* Hallmark: technical composition with a visible human judgment boundary. */
+      :root {
+      --ink: #172b46;
+      --muted: #495e78;
+      --paper: #eef3fa;
+      --panel: #e2eaf5;
+      --line: #b1c0d2;
+      --accent: #99512c;
+      --navy: #111e30;
+      --white: #edf2fa;
+      --pale: #b3c2d5;
+      --copper: #e6a775;
+        --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+        --font-display: Georgia, 'Times New Roman', serif;
+      }
+      text { font-family: var(--font-body); fill: var(--ink); }
+      .display { font-family: var(--font-display); }
+      .muted { fill: var(--muted); }
+      .accent { fill: var(--accent); }
+      .paper { fill: var(--paper); }
+      .panel { fill: var(--panel); }
+      .navy { fill: var(--navy); }
+      .white { fill: var(--white); }
+      .pale { fill: var(--pale); }
+      .copper { fill: var(--copper); }
+      .rule { fill: none; stroke: var(--line); stroke-width: 1; }
+      .signal { fill: none; stroke: var(--accent); stroke-width: 2; }
+      .bright { fill: none; stroke: var(--copper); stroke-width: 2; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="360" height="420" class="paper"/>
+  <rect x="0" y="0" width="360" height="198" class="navy"/>
+  <rect x="24" y="24" width="42" height="4" class="copper"/>
+  <text x="24" y="84" font-size="43" class="display white">Zain Qureshi</text>
+  <text x="25" y="119" font-size="24" class="white">Agentic AI Engineer</text>
+  <text x="25" y="155" font-size="16" class="pale">Software engineering underneath.</text>
+  <text x="25" y="178" font-size="16" class="pale">Judgment at the boundary.</text>
+  <text x="24" y="225" font-size="22" font-weight="600">Human</text>
+  <text x="24" y="250" font-size="15" class="muted">intent · constraints · release</text>
+  <rect x="24" y="262" width="312" height="27" class="accent"/>
+  <text x="36" y="281" font-size="14" class="white" font-weight="600">judgment boundary</text>
+  <text x="24" y="321" font-size="22" font-weight="600">Agents</text>
+  <text x="24" y="345" font-size="15" class="muted">implement · review · verify</text>
+  <path d="M24 359h312" class="rule"/>
+  <text x="24" y="384" font-size="22" font-weight="600">System</text>
+  <text x="24" y="408" font-size="15" class="muted">guard · trace · recover</text>
+</svg>

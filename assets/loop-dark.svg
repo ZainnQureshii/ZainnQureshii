@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="180" viewBox="0 0 840 180" role="img" aria-labelledby="title">
+  <title id="title">Name the barrier. Agents implement below it. Verify before believing. Ship something that runs without me.</title>
+  <defs>
+    <style>
+      /* Hallmark: technical composition with a visible human judgment boundary. */
+      :root {
+      --ink: #edf2fa;
+      --muted: #b3c2d5;
+      --paper: #111e30;
+      --panel: #1a2b42;
+      --line: #53677f;
+      --accent: #e6a775;
+      --navy: #111e30;
+      --white: #edf2fa;
+      --pale: #b3c2d5;
+      --copper: #e6a775;
+        --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+        --font-display: Georgia, 'Times New Roman', serif;
+      }
+      text { font-family: var(--font-body); fill: var(--ink); }
+      .display { font-family: var(--font-display); }
+      .muted { fill: var(--muted); }
+      .accent { fill: var(--accent); }
+      .paper { fill: var(--paper); }
+      .panel { fill: var(--panel); }
+      .navy { fill: var(--navy); }
+      .white { fill: var(--white); }
+      .pale { fill: var(--pale); }
+      .copper { fill: var(--copper); }
+      .rule { fill: none; stroke: var(--line); stroke-width: 1; }
+      .signal { fill: none; stroke: var(--accent); stroke-width: 2; }
+      .bright { fill: none; stroke: var(--copper); stroke-width: 2; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="840" height="180" class="navy"/>
+  <path d="M42 42H798V150H18V42H26" class="bright"/>
+  <path d="M20 36L26 42L20 48M402 144L396 150L402 156" class="bright"/>
+  <rect x="30" y="23" width="38" height="37" class="navy"/>
+  <text x="42" y="50" font-size="28" class="copper" font-weight="600">1</text>
+  <text x="42" y="92" font-size="18" class="white">Name the</text>
+  <text x="42" y="117" font-size="18" class="white">barrier</text>
+  <path d="M168 36l6 6-6 6" class="bright"/>
+  <rect x="225" y="23" width="38" height="37" class="navy"/>
+  <text x="237" y="50" font-size="28" class="copper" font-weight="600">2</text>
+  <text x="237" y="92" font-size="18" class="white">Agents implement</text>
+  <text x="237" y="117" font-size="18" class="white">below it</text>
+  <path d="M363 36l6 6-6 6" class="bright"/>
+  <rect x="420" y="23" width="38" height="37" class="navy"/>
+  <text x="432" y="50" font-size="28" class="copper" font-weight="600">3</text>
+  <text x="432" y="92" font-size="18" class="white">Verify before</text>
+  <text x="432" y="117" font-size="18" class="white">believing</text>
+  <path d="M558 36l6 6-6 6" class="bright"/>
+  <rect x="615" y="23" width="38" height="37" class="navy"/>
+  <text x="627" y="50" font-size="28" class="copper" font-weight="600">4</text>
+  <text x="627" y="92" font-size="18" class="white">Ship something that</text>
+  <text x="627" y="117" font-size="18" class="white">runs without me</text>
+</svg>
