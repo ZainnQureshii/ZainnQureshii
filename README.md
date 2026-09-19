@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/arcade-banner.png" width="100%" alt="Zain Qureshi, Agentic AI Engineer. Two robot builders at a colourful pixel-art workstation in space.">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" width="100%" alt="Zain Qureshi. Agentic AI engineer. Engineering since 2019.">
+  </picture>
 </p>
 
 <p align="center">
@@ -119,6 +122,6 @@ Claude and Codex as a pair, one planning and one building. Copilot as the gate b
 <details>
 <summary><sub>Visual credits</sub></summary>
 
-Original workstation illustration made for this profile with OpenAI image generation. Original animated stickers and divider. Badges by [Shields.io](https://shields.io), icons by [Skill Icons](https://github.com/tandpfun/skill-icons), typing by [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg), views by [Komarev](https://github.com/antonkomarev/github-profile-views-counter). Coding GIF from [Cool GIFs for GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub). Contribution visuals by [snk](https://github.com/Platane/snk), [GitHub Profile 3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib) and [Metrics](https://github.com/lowlighter/metrics).
+Original wordmark, stickers and divider drawn for this profile. Badges by [Shields.io](https://shields.io), icons by [Skill Icons](https://github.com/tandpfun/skill-icons), typing by [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg), views by [Komarev](https://github.com/antonkomarev/github-profile-views-counter). Coding GIF from [Cool GIFs for GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub). Contribution visuals by [snk](https://github.com/Platane/snk), [GitHub Profile 3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib) and [Metrics](https://github.com/lowlighter/metrics).
 
 </details>

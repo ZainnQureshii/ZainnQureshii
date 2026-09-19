@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title description">
+  <title id="title">Zain Qureshi. Agentic AI engineer. Engineering since 2019.</title>
+  <desc id="description">A custom geometric wordmark in cream on a dark violet field, with a quiet teal and violet schematic rule.</desc>
+  <style>
+    .name { fill: #fff5db; fill-rule: evenodd; }
+    .subtitle { fill: #fff5db; font-family: Arial, Helvetica, sans-serif; font-size: 23px; letter-spacing: 2px; }
+    .compact { display: none; }
+    .arrival { animation: settle 1800ms ease-out 1 both; }
+    @keyframes settle { from { opacity: .2; } to { opacity: 1; } }
+    @media (max-width: 600px) {
+      .desktop { display: none; }
+      .compact { display: inline; }
+      .subtitle { font-size: 32px; letter-spacing: 2px; }
+    }
+    @media (prefers-reduced-motion: reduce) { .arrival { animation: none; } }
+  </style>
+  <rect width="960" height="360" fill="#17152e"/>
+  <g class="desktop">
+    <g class="name" transform="translate(64 104)">
+      <path transform="translate(0 0)" d="M0 0H64V14L18 74H64V88H0V74L46 14H0Z"/>
+      <path transform="translate(78 0)" d="M0 88L25 0H45L70 88H54L49 68H21L16 88ZM25 54H45L35 17Z"/>
+      <path transform="translate(162 0)" d="M0 0H16V88H0Z"/>
+      <path transform="translate(192 0)" d="M0 88V0H16L52 60V0H68V88H52L16 28V88Z"/>
+      <path transform="translate(306 0)" d="M22 0H48Q70 0 70 23V65Q70 74 66 80L72 92H54L51 87Q49 88 48 88H22Q0 88 0 65V23Q0 0 22 0ZM24 14Q16 14 16 24V64Q16 74 24 74H43L36 59H53L54 61V24Q54 14 46 14Z"/>
+      <path transform="translate(392 0)" d="M0 0H16V63Q16 74 27 74H41Q52 74 52 63V0H68V64Q68 88 43 88H25Q0 88 0 64Z"/>
+      <path transform="translate(474 0)" d="M0 88V0H43Q66 0 66 22V33Q66 51 50 55L68 88H50L33 57H16V88ZM16 14V43H40Q50 43 50 33V24Q50 14 40 14Z"/>
+      <path transform="translate(556 0)" d="M0 0H56V14H16V36H49V50H16V74H56V88H0Z"/>
+      <path transform="translate(626 0)" d="M24 0H62V14H25Q16 14 16 23V28Q16 36 25 36H38Q62 36 62 60V64Q62 88 38 88H0V74H37Q46 74 46 65V60Q46 51 37 51H24Q0 51 0 28V24Q0 0 24 0Z"/>
+      <path transform="translate(702 0)" d="M0 0H16V36H50V0H66V88H50V51H16V88H0Z"/>
+      <path transform="translate(782 0)" d="M0 0H16V88H0Z"/>
+    </g>
+    <path d="M64 231H896" fill="none" stroke="#a99cff" stroke-opacity=".22"/>
+    <path class="arrival" d="M64 231H152L162 221H184" fill="none" stroke="#39ddce" stroke-width="3"/>
+    <text class="subtitle" x="64" y="282">AGENTIC AI ENGINEER · SINCE 2019</text>
+  </g>
+  <g class="compact">
+    <g class="name" transform="translate(64 44) scale(1.02)">
+      <path transform="translate(0 0)" d="M0 0H64V14L18 74H64V88H0V74L46 14H0Z"/>
+      <path transform="translate(78 0)" d="M0 88L25 0H45L70 88H54L49 68H21L16 88ZM25 54H45L35 17Z"/>
+      <path transform="translate(162 0)" d="M0 0H16V88H0Z"/>
+      <path transform="translate(192 0)" d="M0 88V0H16L52 60V0H68V88H52L16 28V88Z"/>
+    </g>
+    <g class="name" transform="translate(64 153) scale(1.02)">
+      <path transform="translate(0 0)" d="M22 0H48Q70 0 70 23V65Q70 74 66 80L72 92H54L51 87Q49 88 48 88H22Q0 88 0 65V23Q0 0 22 0ZM24 14Q16 14 16 24V64Q16 74 24 74H43L36 59H53L54 61V24Q54 14 46 14Z"/>
+      <path transform="translate(86 0)" d="M0 0H16V63Q16 74 27 74H41Q52 74 52 63V0H68V64Q68 88 43 88H25Q0 88 0 64Z"/>
+      <path transform="translate(168 0)" d="M0 88V0H43Q66 0 66 22V33Q66 51 50 55L68 88H50L33 57H16V88ZM16 14V43H40Q50 43 50 33V24Q50 14 40 14Z"/>
+      <path transform="translate(250 0)" d="M0 0H56V14H16V36H49V50H16V74H56V88H0Z"/>
+      <path transform="translate(320 0)" d="M24 0H62V14H25Q16 14 16 23V28Q16 36 25 36H38Q62 36 62 60V64Q62 88 38 88H0V74H37Q46 74 46 65V60Q46 51 37 51H24Q0 51 0 28V24Q0 0 24 0Z"/>
+      <path transform="translate(396 0)" d="M0 0H16V36H50V0H66V88H50V51H16V88H0Z"/>
+      <path transform="translate(476 0)" d="M0 0H16V88H0Z"/>
+    </g>
+    <path d="M64 266H896" fill="none" stroke="#a99cff" stroke-opacity=".22"/>
+    <path class="arrival" d="M64 266H152L162 256H184" fill="none" stroke="#39ddce" stroke-width="3"/>
+    <text class="subtitle" x="64" y="307">AGENTIC AI ENGINEER</text>
+    <text class="subtitle" x="64" y="343">SINCE 2019</text>
+  </g>
+</svg>
