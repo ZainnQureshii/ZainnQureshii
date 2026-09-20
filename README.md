@@ -23,7 +23,6 @@ I work with coding agents as a team rather than one at a time. A single agent tr
 <a href="#toolbox"><img src="https://img.shields.io/badge/React-30363D?style=for-the-badge&amp;logo=react&amp;logoColor=white" height="28" alt="React"></a>
 <a href="#toolbox"><img src="https://img.shields.io/badge/NX-30363D?style=for-the-badge&amp;logo=nx&amp;logoColor=white" height="28" alt="NX"></a>
 <a href="#toolbox"><img src="https://img.shields.io/badge/RxJS-30363D?style=for-the-badge&amp;logo=reactivex&amp;logoColor=white" height="28" alt="RxJS"></a>
-<a href="#toolbox"><img src="https://img.shields.io/badge/NgRx-30363D?style=for-the-badge&amp;logo=ngrx&amp;logoColor=white" height="28" alt="NgRx"></a>
 <a href="#toolbox"><img src="https://img.shields.io/badge/Zustand-30363D?style=for-the-badge" height="28" alt="Zustand"></a>
 <a href="#toolbox"><img src="https://img.shields.io/badge/Vite-30363D?style=for-the-badge&amp;logo=vite&amp;logoColor=white" height="28" alt="Vite"></a>
 <a href="#toolbox"><img src="https://img.shields.io/badge/SCSS-30363D?style=for-the-badge&amp;logo=sass&amp;logoColor=white" height="28" alt="SCSS"></a>
