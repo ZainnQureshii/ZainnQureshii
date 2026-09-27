@@ -12,6 +12,13 @@ I work with coding agents as a team rather than one at a time. A single agent tr
 
 **Portal.io.** A proposal building tool that thousands of people use to put an offer in front of a client and get paid for it. Five years on the product, and on the current codebase I have more commits than anyone else on the team. The proposal surface is mine end to end: the client facing link, the payment schedule attached to it, and the AI builder that drafts the proposal in the first place.
 
+**Open source.** I also contribute to the open source projects the industry builds on, among them Ant Design, Angular, Ionic, ClickHouse, Docling and Logseq.
+
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AZainnQureshii+is%3Amerged+-user%3AZainnQureshii+-org%3Aportalio"><img src="https://img.shields.io/badge/Open%20Source%20Contributor-30363D?style=for-the-badge&amp;logo=opensourceinitiative&amp;logoColor=white" height="28" alt="Open Source Contributor"></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AZainnQureshii+is%3Amerged+-user%3AZainnQureshii+-org%3Aportalio"><img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3AZainnQureshii%20is%3Amerged%20-user%3AZainnQureshii%20-org%3Aportalio&amp;label=merged%20PRs&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;color=38CABB" height="28" alt="Merged PRs"></a>
+</p>
+
 <br>
 
 <table>
